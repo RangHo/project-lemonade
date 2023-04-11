@@ -27,4 +27,8 @@ society are heavily updated since. Just letting you know!
 
 ## List of programs
 
-:building_construction: Work in progress!
+| Name | Description |
+| ---- | ----------- |
+| [`powershell-raytracing`](https://github.com/RangHo/powershell-raytracing) | [Raytracing in One Weekend][1] implementation in PowerShell. |
+
+[1]: https://raytracing.github.io/books/RayTracingInOneWeekend.html
