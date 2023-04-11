@@ -8,6 +8,7 @@
 > by Cave Johnson, Founder of Aperture Science *(from Portal 2)*
 
 ## What is this project?
+
 Project Lemonade is a series of programs created during my mandatory military service.
 
 In the military, I regularly get disconnected from the rest of the world entirely as there is no such
@@ -25,4 +26,5 @@ from my incomplete relocation of the source code. Some sources that I was able t
 society are heavily updated since. Just letting you know!
 
 ## List of programs
+
 :building_construction: Work in progress!
