@@ -31,6 +31,7 @@ society are heavily updated since. Just letting you know!
 | ---- | ----------- |
 | [`powershell-raytracing`](https://github.com/RangHo/powershell-raytracing) | [Raytracing in One Weekend][1] implementation in PowerShell. |
 | [`hancell-raytracing`](https://github.com/RangHo/hancell-raytracing) | [Raytracing in One Weekend][1] implementation in [Hancom Office Hancell][2] VBA. |
+| [`quantumshell`](https://github.com/RangHo/quantumshell) | Quantum computer emulator written in PowerShell. |
 
 [1]: https://raytracing.github.io/books/RayTracingInOneWeekend.html
 [2]: https://www.hancom.com/product/productWindowsMain.do?gnb0=23&gnb1=29
