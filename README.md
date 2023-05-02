@@ -22,8 +22,8 @@ Here are some features shared by the Project Lemonade programs:
 3. Topics which no sane people will choose
 
 Many of the programs are left in the isolated computer in the ship, so most of the programs are re-written
-from my incomplete relocation of the source code. Some sources that I was able to *print out* and bring to
-society are heavily updated since. Just letting you know!
+from my incomplete recollection of the source code. Some sources that I was able to *print out* and bring to
+society are heavily updated since. So... Technically, I'm not breaking any rules. Just letting you know!
 
 ## List of programs
 
