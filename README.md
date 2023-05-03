@@ -25,6 +25,27 @@ Many of the programs are left in the isolated computer in the ship, so most of t
 from my incomplete recollection of the source code. Some sources that I was able to *print out* and bring to
 society are heavily updated since. So... Technically, I'm not breaking any rules. Just letting you know!
 
+## Okay, but *why* these languages?
+
+......They do beg for this question, don't they?
+
+Like any other military organizations in other countries, South Korea Navy requires thorough screening for
+any binaries that are installed on devices connected to the Korean military intranet. Therefore, I had to
+come up with something that I can get my hands on. Although a version of Anaconda distribution of Python was
+available, its massive size made its installation virtually impossible over a 10KB/s satellite network.
+
+Then, I was left with the following choices:
+* Python
+* Perl and Bash shell script from Git
+* PowerShell 5 built into Windows 10
+* VBA included in Hancom Office Hancell
+* JavaScript available in Chrome
+
+Of course, Python and JavaScript is just boring at this point, so I decided to spice things up by choosing
+exotic languages that no one uses.
+
+Yep, at the end of the day, I wanted to be a hipster.
+
 ## List of programs
 
 | Name | Description |
@@ -32,7 +53,7 @@ society are heavily updated since. So... Technically, I'm not breaking any rules
 | [`powershell-raytracing`](https://github.com/RangHo/powershell-raytracing) | [Raytracing in One Weekend][1] implementation in PowerShell. |
 | [`hancell-raytracing`](https://github.com/RangHo/hancell-raytracing) | [Raytracing in One Weekend][1] implementation in [Hancom Office Hancell][2] VBA. |
 | [`quantumshell`](https://github.com/RangHo/quantumshell) | Quantum computer emulator written in PowerShell. |
-| [`nsns`](https://github.com/RangHo/nsns) | Navy Ship *Nogari* System, a simple web image board written in PowerShell. |
+| [`nsns`](https://github.com/RangHo/nsns) | Naval Ship *Nogari* System, a simple web image board written in PowerShell. |
 
 [1]: https://raytracing.github.io/books/RayTracingInOneWeekend.html
 [2]: https://www.hancom.com/product/productWindowsMain.do?gnb0=23&gnb1=29
