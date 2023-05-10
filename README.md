@@ -54,6 +54,7 @@ Yep, at the end of the day, I wanted to be a hipster.
 | [`hancell-raytracing`](https://github.com/RangHo/hancell-raytracing) | [Raytracing in One Weekend][1] implementation in [Hancom Office Hancell][2] VBA. |
 | [`quantumshell`](https://github.com/RangHo/quantumshell) | Quantum computer emulator written in PowerShell. |
 | [`nsns`](https://github.com/RangHo/nsns) | Naval Ship *Nogari* System, a simple web image board written in PowerShell. |
+| [`church-lamb`](https://github.com/RangHo/church-lamb) | Simple Church encoding evaluator for untyped lambda calculus. |
 
 [1]: https://raytracing.github.io/books/RayTracingInOneWeekend.html
 [2]: https://www.hancom.com/product/productWindowsMain.do?gnb0=23&gnb1=29
