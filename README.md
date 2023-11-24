@@ -5,11 +5,12 @@
 > Demand to see life's manager! Make life rue the day it thought it could give *Cave Johnson* lemons! \
 > Do you know who I am? I'm the man who's gonna burn your house down—with the lemons!
 > 
-> by Cave Johnson, Founder of Aperture Science *(from Portal 2)*
+> — Cave Johnson, Founder of Aperture Science *(from Portal 2)*
 
 ## What is this?
 
-Project Lemonade is a series of programs created during my mandatory military service.
+Project Lemonade is a series of programs planned (and sometimes even created!) during my mandatory
+military service.
 
 In the military, I regularly get disconnected from the rest of the world entirely as there is no such
 thing as internet on the sea. (This does not imply that I have internet access when moored, though.)
@@ -32,10 +33,11 @@ society are heavily updated since. So... Technically, I'm not breaking any rules
 Like any other military organizations in other countries, South Korea Navy requires thorough screening for
 any binaries that are installed on devices connected to the Korean military intranet. Therefore, I had to
 come up with something that I can get my hands on. Although a version of Anaconda distribution of Python was
-available, its massive size made its installation virtually impossible over a 10KB/s satellite network.
+available, its massive size made its installation virtually impossible over a satellite network with 10Kbps
+bandwith, 95% of which are already not available for a low-rank soldier like me.
 
 Then, I was left with the following choices:
-* Python
+* Python with excruciating 49-hour wait
 * Perl and Bash shell script from Git
 * PowerShell 5 built into Windows 10
 * VBA included in Hancom Office Hancell
